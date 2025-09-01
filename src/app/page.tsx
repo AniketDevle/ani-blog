@@ -18,7 +18,7 @@ export default function Home() {
             <div className="text-center">
               <h1 className="text-4xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-6xl">
                 Welcome to{' '}
-                <span className="text-blue-600 dark:text-blue-400">Aniket's Blog</span>
+                <span className="text-blue-600 dark:text-blue-400">Anikets Blog</span>
               </h1>
               <p className="mt-6 text-lg leading-8 text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
                 A space where I share thoughts, experiences, and insights about technology, 

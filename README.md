@@ -1,4 +1,4 @@
-# Aniket's Blog
+# Anikets Blog
 
 A modern, responsive blog website built with Next.js, TypeScript, and Tailwind CSS. This blog features a clean design, markdown support, and excellent performance.
 

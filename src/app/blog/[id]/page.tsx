@@ -19,7 +19,7 @@ export async function generateMetadata({ params }: PostPageProps) {
   try {
     const post = await getPostData(params.id);
     return {
-      title: `${post.title} | Aniket's Blog`,
+      title: `${post.title} | Anikets Blog`,
       description: post.excerpt,
       keywords: post.tags,
       openGraph: {
@@ -32,7 +32,7 @@ export async function generateMetadata({ params }: PostPageProps) {
     };
   } catch (error) {
     return {
-      title: 'Post Not Found | Aniket's Blog',
+      title: 'Post Not Found | Anikets Blog',
     };
   }
 }

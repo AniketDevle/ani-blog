@@ -19,9 +19,9 @@ export default function Header() {
       <nav className="mx-auto flex max-w-7xl items-center justify-between p-6 lg:px-8" aria-label="Global">
         <div className="flex lg:flex-1">
           <Link href="/" className="-m-1.5 p-1.5">
-            <span className="sr-only">Aniket's Blog</span>
+            <span className="sr-only">Anikets Blog</span>
             <h1 className="text-2xl font-bold text-gray-900 dark:text-white">
-              Aniket's Blog
+              Anikets Blog
             </h1>
           </Link>
         </div>
@@ -60,9 +60,9 @@ export default function Header() {
           <div className="fixed inset-y-0 right-0 z-50 w-full overflow-y-auto bg-white dark:bg-gray-800 px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10">
             <div className="flex items-center justify-between">
               <Link href="/" className="-m-1.5 p-1.5">
-                <span className="sr-only">Aniket's Blog</span>
+                <span className="sr-only">Anikets Blog</span>
                 <h1 className="text-2xl font-bold text-gray-900 dark:text-white">
-                  Aniket's Blog
+                  Anikets Blog
                 </h1>
               </Link>
               <button
